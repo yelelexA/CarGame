@@ -9,7 +9,7 @@
 Вся логика в приложении реализована на языке C#. <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/mainCode.gif) <br>
 
-Ниже показан пример работы шейдера, отвечающего за смену цвета и текстуры корпуса машины. Это рукописный шейдер, созданный на HLSL/Shader Lab. <br>
+Ниже показан пример работы шейдера, отвечающего за смену цвета и текстуры корпуса машины. Это рукописный шейдер, созданный на HLSL/ShaderLab. <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/changeCarColor.gif) <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/changeCarTexture.gif) <br>
 
@@ -17,7 +17,7 @@
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/carSmokeIns.gif)  <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/carSmokeGame.gif)  <br>
 
-Во время разработки, Дмитрием были такие аспекты, как Input и WheelCollider; а Алексеем - HLSL/Shader Graph/FVX Graph. <br>
+Во время разработки, Дмитрием были изучены такие аспекты, как Input и WheelCollider; а Алексеем - HLSL/Shader Graph/FVX Graph. <br>
 Это не много, но зато это честная работа!!!
 
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/honestWork.jpg)
