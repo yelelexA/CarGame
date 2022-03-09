@@ -13,7 +13,7 @@
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/changeCarColor.gif) <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/changeCarTexture.gif) <br>
 
-Далее показан пример работы VFX, создающего дым при торможении машины, а также его реализация в самой игре. Создан с помощью FVX Graph. <br>
+Далее показан пример работы VFX, создающего дым при торможении машины, а также его реализация в самой игре(появляется при торможении). Создан с помощью FVX Graph. <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/carSmokeIns.gif)  <br>
 ![me](https://github.com/yelelexA/CarGame/blob/main/.gifts/carSmokeGame.gif)  <br>
 
